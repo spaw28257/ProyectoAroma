@@ -1,0 +1,65 @@
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\bin\Debug\ProyectoAroma.exe.config
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\bin\Debug\ProyectoAroma.exe
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\bin\Debug\ProyectoAroma.pdb
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.AssemblyReference.cache
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.SuggestedBindingRedirects.cache
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.master_product.resources
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.Properties.Resources.resources
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.GenerateResource.cache
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.CoreCompileInputs.cache
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.exe
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.pdb
+C:\Models\Proyecto Visual Studio 2022\ProyectoAroma\bin\Debug\ProyectoAroma.exe.config
+C:\Models\Proyecto Visual Studio 2022\ProyectoAroma\bin\Debug\ProyectoAroma.exe
+C:\Models\Proyecto Visual Studio 2022\ProyectoAroma\bin\Debug\ProyectoAroma.pdb
+C:\Models\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.AssemblyReference.cache
+C:\Models\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.SuggestedBindingRedirects.cache
+C:\Models\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.master_product.resources
+C:\Models\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.Properties.Resources.resources
+C:\Models\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.GenerateResource.cache
+C:\Models\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.CoreCompileInputs.cache
+C:\Models\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.exe
+C:\Models\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.pdb
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.MasterForm.add_producto.resources
+C:\Trabajo\Personal\Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.frmPrincipal.resources
+F:\Proyecto Visual Studio 2022\ProyectoAroma\bin\Debug\ProyectoAroma.exe.config
+F:\Proyecto Visual Studio 2022\ProyectoAroma\bin\Debug\ProyectoAroma.exe
+F:\Proyecto Visual Studio 2022\ProyectoAroma\bin\Debug\ProyectoAroma.pdb
+F:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.AssemblyReference.cache
+F:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.SuggestedBindingRedirects.cache
+F:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.frmPrincipal.resources
+F:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.master_product.resources
+F:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.MasterForm.add_producto.resources
+F:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.Properties.Resources.resources
+F:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.GenerateResource.cache
+F:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.CoreCompileInputs.cache
+F:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.exe
+F:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.pdb
+D:\Proyecto Visual Studio 2022\ProyectoAroma\bin\Debug\ProyectoAroma.exe.config
+D:\Proyecto Visual Studio 2022\ProyectoAroma\bin\Debug\ProyectoAroma.exe
+D:\Proyecto Visual Studio 2022\ProyectoAroma\bin\Debug\ProyectoAroma.pdb
+D:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.AssemblyReference.cache
+D:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.SuggestedBindingRedirects.cache
+D:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.frmPrincipal.resources
+D:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.master_product.resources
+D:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.MasterForm.add_producto.resources
+D:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.Properties.Resources.resources
+D:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.GenerateResource.cache
+D:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.CoreCompileInputs.cache
+D:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.exe
+D:\Proyecto Visual Studio 2022\ProyectoAroma\obj\Debug\ProyectoAroma.pdb
+C:\Users\produ\Proyectos\ProyectoAroma\bin\Debug\ProyectoAroma.exe.config
+C:\Users\produ\Proyectos\ProyectoAroma\bin\Debug\ProyectoAroma.exe
+C:\Users\produ\Proyectos\ProyectoAroma\bin\Debug\ProyectoAroma.pdb
+C:\Users\produ\Proyectos\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.AssemblyReference.cache
+C:\Users\produ\Proyectos\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.SuggestedBindingRedirects.cache
+C:\Users\produ\Proyectos\ProyectoAroma\obj\Debug\ProyectoAroma.frmPrincipal.resources
+C:\Users\produ\Proyectos\ProyectoAroma\obj\Debug\ProyectoAroma.master_product.resources
+C:\Users\produ\Proyectos\ProyectoAroma\obj\Debug\ProyectoAroma.MasterForm.add_producto.resources
+C:\Users\produ\Proyectos\ProyectoAroma\obj\Debug\ProyectoAroma.Properties.Resources.resources
+C:\Users\produ\Proyectos\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.GenerateResource.cache
+C:\Users\produ\Proyectos\ProyectoAroma\obj\Debug\ProyectoAroma.csproj.CoreCompileInputs.cache
+C:\Users\produ\Proyectos\ProyectoAroma\obj\Debug\ProyectoAroma.exe
+C:\Users\produ\Proyectos\ProyectoAroma\obj\Debug\ProyectoAroma.pdb
+C:\Users\produ\Proyectos\ProyectoAroma\obj\Debug\ProyectoAroma.MasterForm.edit_producto.resources
+C:\Users\produ\Proyectos\ProyectoAroma\obj\Debug\ProyectoAroma.MasterForm.add_tasacambio.resources
